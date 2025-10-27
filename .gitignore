@@ -1,4 +1,21 @@
+# --- Your dataset folders ---
 /content/images/
 /dataset_turtle_cropped/
 /dataset_turtle_preprocessed/
 /dataset_turtle_preprocessed_Augmentation/
+
+# --- Python cache & venv ---
+venv/
+__pycache__/
+*.pyc
+
+# --- Notebook checkpoints ---
+.ipynb_checkpoints/
+
+# --- YOLO & model outputs ---
+runs/
+*.pt
+
+# --- Temporary / OS junk ---
+.DS_Store
+Thumbs.db
