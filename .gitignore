@@ -4,6 +4,7 @@
 /dataset_turtle_preprocessed/
 /dataset_turtle_preprocessed_Augmentation/
 /dataset_turtle_registered/
+runs/
 
 # --- Python cache & venv ---
 venv/
