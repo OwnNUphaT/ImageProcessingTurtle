@@ -1,0 +1,7 @@
+train: content/Turtle_Head_Detection/train/images
+val: content/Turtle_Head_Detection/valid/images
+test: content/Turtle_Head_Detection/test/images
+
+nc: 1
+names:
+  0: Head
