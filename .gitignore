@@ -3,6 +3,7 @@
 /dataset_turtle_cropped/
 /dataset_turtle_preprocessed/
 /dataset_turtle_preprocessed_Augmentation/
+/dataset_turtle_registered/
 
 # --- Python cache & venv ---
 venv/
