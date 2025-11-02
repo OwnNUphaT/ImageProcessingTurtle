@@ -12,10 +12,6 @@ __pycache__/
 # --- Notebook checkpoints ---
 .ipynb_checkpoints/
 
-# --- YOLO & model outputs ---
-runs/
-*.pt
-
 # --- Temporary / OS junk ---
 .DS_Store
 Thumbs.db
