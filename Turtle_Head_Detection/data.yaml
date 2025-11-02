@@ -1,0 +1,6 @@
+train: D:\Fork\ImageProcessingTurtle\Turtle_Head_Detection\train\images
+val: D:\Fork\ImageProcessingTurtle\Turtle_Head_Detection\valid\images
+test: D:\Fork\ImageProcessingTurtle\Turtle_Head_Detection\test\images
+
+nc: 1
+names: ['Head']
